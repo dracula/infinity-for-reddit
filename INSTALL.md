@@ -1,17 +1,13 @@
-### [Foobar](https://foobar.com)
+### [Infinity for Reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)
 
-#### Install using Git
+#### Install
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    git clone https://github.com/dracula/foobar.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
+Dracula Theme is _already present_ in _Infinity for Reddit_. So, you don't need to install anything!
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Navigate to your settings in the app
+2. Navigate to themes
+3. Navigate to manage themes
+4. From the Predefined Themes, choose Dracula.
+5. Boom, Dracula theme 🧛🏻‍♂️!
